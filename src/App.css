@@ -5,5 +5,5 @@ body {
 }
 
 #root {
-  @apply p-4 md:p-8;
+  @apply p-4 md:p-8 lg:container lg:mx-auto;
 }
